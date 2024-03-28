@@ -41,5 +41,5 @@ A **Swing** desktop application that calculates the age between a given date (bi
 ## Additional Information 🔥
 
 This application considers the system's date as the current date, 
-so you can easily change the system's date to see how old you will be on a future date. </br>
+so you can easily change the system's date to see how old you will be on a future date. 
 Hope you make it that far. </br>
